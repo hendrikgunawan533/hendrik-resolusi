@@ -1,2 +1,2 @@
-# hendrik-resolusi
+# my_resolusi
 repository untuk menyimpan rencana kedepan
